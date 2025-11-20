@@ -1,17 +1,3 @@
-Bilkul GSR, main tumhe **complete professional README.md ka content** de deta hoon — jaisa GitHub pe clean dikhna chahiye.
-Bas ye wala text **VS Code me README.md** me paste karo, save karo, phir:
-
-```
-git add README.md
-git commit -m "Add full README"
-git push
-```
-
----
-
-# ⭐ **READY-TO-USE README.md CONTENT (Paste this entire text)**
-
-```markdown
 # 🚑 Disease Detector System (Machine Learning Project)
 
 A Machine Learning based diabetes prediction system that gives:
